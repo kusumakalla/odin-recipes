@@ -1,0 +1,26 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(226, 106, 226);
+    color: white;
+}
+
+div {
+    background-color: hsla(68, 81%, 63%, 0.5);
+    align-items: center;
+    text-align: center;
+}
+
+a {
+    color: beige;
+}
+
+ul {
+    background-color: rgb(181, 115, 242, 0.5);
+    list-style-type: circle;
+
+}
